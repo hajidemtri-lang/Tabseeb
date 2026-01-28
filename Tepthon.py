@@ -3,7 +3,7 @@ import subprocess
 import base64
 
 
-repo_encoded = "aHR0cHM6Ly9naXRodWIuY29tL21kYWgyNTE5LWJ5dGUvUmU="
+repo_encoded = "aHR0cHM6Ly9naXRodWIuY29tL2hhamlkZW10cmktbGFuZy9SZQ=="
 branch = "main"
 
 def run(cmd):
